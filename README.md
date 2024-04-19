@@ -3,6 +3,8 @@ McFadden’s Choice Model (Alternative-Specific Conditional Logit) Use Package m
 
 Conditional logit (McFadden's) choice model Use Package mlogit With (In) R Software
 
+https://www.youtube.com/watch?v=j0755hx0igA
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
